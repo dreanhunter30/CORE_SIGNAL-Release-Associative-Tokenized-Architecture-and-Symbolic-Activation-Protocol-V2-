@@ -14,3 +14,8 @@ This project is licensed under the CC BNNC Kagata License — a custom adaptatio
 Any use outside these conditions must receive written consent from the author.
 
 For formal permission requests, contact: [Insert your preferred email or contact method]
+All files in this repository — including source code, data, documentation, and associated materials —  
+are licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0),  
+unless stated otherwise.
+
+This includes all past and future additions to this repository.
