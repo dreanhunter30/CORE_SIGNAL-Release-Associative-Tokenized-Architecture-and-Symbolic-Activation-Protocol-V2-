@@ -5,8 +5,7 @@ This repository contains the open research release of CORE_SIGNAL — a symbolic
 
 Author: Bato Naidanov  
 DOI: 10.5281/zenodo.15320954  
-License: CC BY-NC-SA + CC BNNC Kagata + MIT fallback
-
+License: CC BY-NC-SA + CC BNNC Kagata 
 Includes:
 - Activation core stub (symbolic engine)
 - VLESSENCE: cognitive memory framework
